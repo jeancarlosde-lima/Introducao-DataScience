@@ -1,6 +1,6 @@
-#Curso de Data Science: analise e visualização de dados (Alura)#
+***Curso de Data Science: analise e visualização de dados (Alura)***
 **************************************************************
-Contéudo desse curso de Data Science:
+**__Contéudo desse curso de Data Science:**__
 ***************************************
 - Entrar na área de ciência de dados (data science)
 - Explorar dados com exploratory data analysis
