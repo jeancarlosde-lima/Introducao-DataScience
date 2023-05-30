@@ -1,4 +1,4 @@
-#***Curso de Data Science: analise e visualização de dados (Alura)***
+#######Curso de Data Science: analise e visualização de dados (Alura)
 **************************************************************
 Contéudo desse curso de Data Science:
 ***************************************
